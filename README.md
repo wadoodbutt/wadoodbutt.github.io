@@ -1,2 +1,3 @@
 # wadoodbutt.github.io
-CMSC 320 Project Underway!!!
+## Data Sets
+https://www.worldbank.org/en/home -- gdpdatagloba; globalsuicidedata; statesgdp; statessuicide
