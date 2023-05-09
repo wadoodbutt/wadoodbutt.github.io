@@ -1,3 +1,3 @@
 # wadoodbutt.github.io
 ## Data Sets
-https://www.worldbank.org/en/home -- gdpdatagloba; globalsuicidedata; statesgdp; statessuicide
+Source: https://www.worldbank.org/en/home -- gdpdataglobal; globalsuicidedata; statesgdp; statessuicide
